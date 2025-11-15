@@ -22,3 +22,41 @@ This project is a front-end recreation of Netflix’s modern interface, designed
 
 ## 📸 Preview
 <img src="assets/images/Netflix_Clone.png" alt="Netflix Clone Preview" width="800">
+
+
+## 📂 Project Structure
+Netflix-Clone/
+│── index.html
+│── style.css
+│── assets/
+│     ├── images/
+│     ├── logos/
+│     └── icons/
+
+## 🎯 What I Learned
+	•	Structuring large UI layouts using pure HTML & CSS
+	•	Creating responsive sections using Flexbox & Grid
+	•	Designing smooth gradients and Netflix-style cards
+	•	Managing SVGs, icons, and background images
+	•	Improving code structure for real-world projects
+
+## ⭐ Why This Project?
+
+I built this project to sharpen my front-end development skills and get hands-on experience recreating a professional-grade UI without using any frameworks.
+My goal is to understand the fundamentals deeply and apply them in real projects.
+
+## 🚧 Future Improvements
+	•	Adding JavaScript for interactive features
+	•	Creating a login page
+	•	Adding dynamic user profiles
+	•	Creating mobile navigation & animations
+
+
+## 💡 How to Run
+
+Simply open index.html in your browser — no installation required.
+
+## 🙌 Acknowledgements
+
+Inspired by Netflix’s official website UI.
+This project is for learning purposes only.
