@@ -26,7 +26,7 @@ This project is a front-end recreation of Netflix’s modern interface, designed
 
 ## 📂 Project Structure
 <pre>
-```
+
 Netflix-Clone/
 │── index.html
 │── style.css
@@ -34,7 +34,7 @@ Netflix-Clone/
 │   ├── images/
 │   ├── logos/
 │   └── icons/
-```
+
 </pre>
 
 
