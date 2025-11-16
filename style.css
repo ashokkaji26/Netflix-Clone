@@ -219,6 +219,7 @@ nav {
     flex-wrap: wrap;
     /* background-color: aliceblue; */
     align-items: center;
+    margin-bottom: 50px;
 }
 
 /* Movies containing div */
